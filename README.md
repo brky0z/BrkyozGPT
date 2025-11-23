@@ -65,4 +65,4 @@ SQL veritabanından çekilen kayıtların listelendiği yönetim paneli.
 ![Hafıza Modal](hafiza-modal.jpeg)
 
 ---
-*Developed by Mehmet Berkay Özdemir - Powered by Google Gemini, .NET Core & MSSQL*
+*Developed by **Mehmet Berkay Özdemir** - Powered by Google Gemini, .NET Core & MSSQL*

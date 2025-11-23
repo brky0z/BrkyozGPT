@@ -45,7 +45,7 @@ LLM'lerin "unutma" sorununu çözmek için **MSSQL** üzerinde çalışan özel 
 
 ### 🔹 Ana Sohbet ve Çoklu Dil Çeviri
 Botun doğal dil işleme yeteneği ve dil çeviri modülü.
-![Ana Sohbet](ana-sohbet.jpg)
+![Ana Sohbet](ana-sohbet.jpeg)
 
 ### 🔹 Canlı Veri Erişimi: Hava Durumu & Finans
 API entegrasyonları sayesinde anlık veri çekebilme kabiliyeti.
